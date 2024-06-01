@@ -42,7 +42,3 @@ During the internship, I tackled several tasks that covered different aspects of
 
 - This chatbot project is a basic implementation to demonstrate NLP concepts and chatbot functionality. Feel free to extend and customize it as needed.
 - If you encounter any issues or have questions, please reach out to the internship mentors for assistance.
-
----
-
-Feel free to customize this README further to include more detailed information about your internship experience, the technologies you worked with, and any additional projects or tasks you completed during your internship.
