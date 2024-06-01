@@ -1,0 +1,4 @@
+# requirements.txt
+
+# No third-party libraries required for the basic chatbot functionality.
+# Additional dependencies may be added here in the future.
